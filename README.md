@@ -1,4 +1,4 @@
-# CSI2320_Homework1
+# CSI2320_Project1
 
  **Command to Compile Code:** g++ DiamondPattern.cpp -o DiamondPattern
 
